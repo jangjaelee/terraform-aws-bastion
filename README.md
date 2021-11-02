@@ -1,4 +1,4 @@
-# AWS EC2 Bastion Terraform module
+# Amazon EC2 Bastion Instance Terraform module
 
 Terraform module which creates EC2 Bastion resources on AWS.
 
